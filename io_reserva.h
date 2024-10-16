@@ -1,0 +1,14 @@
+#ifndef IO_RESERVA_H
+#define IO_RESERVA_H
+
+#define GPIO_OVERFLOW 31
+#define GPIO_OVERFLOW_BITS 1
+#define GPIO_SERIE_ERROR 29
+
+#define GPIO_BOTON1 14
+#define GPIO_BOTON2 15
+
+#define GPIO_HELLO_WORLD 16
+#define GPIO_HELLO_WORLD_BITS 8
+
+#endif
